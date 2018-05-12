@@ -1,0 +1,36 @@
+_repo: Lulu-s-Library-Volume-II--of-3-_32357
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, Louisa M. (Louisa May)
+    - Alcott, L. M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: ''
+gutenberg_issued: '2010-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+tableOfContents: The frost king and how the fairies conquered him -- Lilybell and
+  Thistledown -- Ripple, the water sprite -- Eva's visit to fairy land -- Sunshine,
+  and her brothers and sisters -- The fairy spring -- Queen Aster -- The brownie and
+  the princess -- Mermaids -- Little Bud -- The flower's story.
+title: Lulu's Library, Volume 2 (of 3)
+url: http://www.gutenberg.org/ebooks/32357
